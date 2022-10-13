@@ -1,0 +1,4 @@
+why this
+this is linux commond of changing leaninf etc..
+:wq
+ 
